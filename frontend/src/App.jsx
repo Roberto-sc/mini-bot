@@ -1,11 +1,10 @@
-import './App.css'
 
 function App() {
 
   return (
     <>
       <div>
-        <h2>Mini Bot Conversacional</h2>
+        <h2 className="text-6xl">Mini Bot Conversacional</h2>
         <p>Interfaz del chatbot</p>
       </div>
     </>
