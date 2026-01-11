@@ -8,5 +8,5 @@ import lombok.Data;
 public class ChatResponse {
     
     private String question;
-    private String Response;
+    private String response;
 }
